@@ -17,7 +17,7 @@ Features:
 + Post title
 + Post date
 + Posted by
-+ image
++ Post thumbnail image
 + Post content
 + Post Author
 + Comment form
