@@ -194,8 +194,8 @@
 				</div>
 				<div class="flex w-full pt-2 content-center justify-between md:w-1/2 md:justify-end">
 					<ul class="list-reset flex justify-center flex-1 md:flex-none items-center">
-						<li>
-							<a class="inline-block py-2 px-3 text-white no-underline" href="<?php echo get_site_url(); ?>">&copy;2021 ?????.com</a>
+						<li class="text-white">
+							Copyright &copy; <?= date('Y'); ?><a class="inline-block py-2 px-1 text-white no-underline" href="https://www.tailwindtoolbox.com/" target="_blank">TailwindToolbox.com</a>
 						</li>
 					</ul>
 				</div>
