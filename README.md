@@ -26,6 +26,6 @@ Features:
 
 Optimized with plugins :
 + Yoast SEO
-+ WP Disquz
++ WP Discuz
 
 This theme still has many features that need to be added. I am happy if there is someone who wants to contribute to developing this theme to make it better.
