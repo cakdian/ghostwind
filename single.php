@@ -17,7 +17,7 @@ get_header(); ?>
         <!--Title-->
         <div class="text-center pt-16 md:pt-32">
             <h1 class="font-bold break-normal text-3xl md:text-5xl"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h1>
-            <p class="text-sm md:text-base text-gray-500 font-bold"><?php the_date(); ?> by <?php the_author(); ?></p>
+            <p class="text-sm md:text-base text-gray-400 font-bold"><?php the_date(); ?> by <?php the_author(); ?></p>
         </div>
 
         <!--image-->
